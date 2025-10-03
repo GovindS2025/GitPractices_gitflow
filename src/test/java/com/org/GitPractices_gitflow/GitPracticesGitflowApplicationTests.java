@@ -18,4 +18,8 @@ class GitPracticesGitflowApplicationTests {
         System.out.println("This is another test method.");
     }
 
+    @Test
+    void govindTest(){
+        System.out.println("tested 1");
+    }
 }
