@@ -9,5 +9,9 @@ class GitPracticesGitflowApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+    @Test
+    void newTest() {
+        System.out.println("This is a new test method.");
+    }
 
 }
