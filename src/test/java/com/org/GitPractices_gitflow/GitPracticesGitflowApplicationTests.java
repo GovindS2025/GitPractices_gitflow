@@ -17,5 +17,9 @@ class GitPracticesGitflowApplicationTests {
     void anotherTest() {
         System.out.println("This is another test method.");
     }
+    @Test
+    void yetAnotherTest() {
+        System.out.println("This is yet another test method.");
+    }
 
 }
