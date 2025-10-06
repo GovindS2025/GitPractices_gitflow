@@ -34,4 +34,9 @@ class GitPracticesGitflowApplicationTests {
     void govindTest2(){
         System.out.println("tested 3");
     }
+    @Test
+    void govindTest4(){
+        System.out.println("tested 4");
+    }
+
 }
